@@ -1,0 +1,27 @@
+# Resume Parser — Python dependencies
+# Install with: pip install -r requirements.txt
+# Tested on Python 3.10+
+
+# PDF extraction
+pdfplumber>=0.10.0
+pdfminer.six>=20221105
+
+# DOCX support
+python-docx>=1.0.0
+
+# ML / embeddings (for skill enrichment and section classifier)
+sentence-transformers>=2.6.0
+torch>=2.0.0
+scikit-learn>=1.3.0
+
+# UI
+streamlit>=1.32.0
+
+# Utilities
+numpy>=1.24.0
+
+# LLM enrichment (Ollama integration — this fork only)
+# Requires Ollama running locally with the model pulled:
+#   ollama pull llama3.1:8b
+requests>=2.31.0
+

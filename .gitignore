@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Sentence-transformers / model cache (large, regenerated on first run)
+.cache/
+*.pt
+*.bin
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test/sample resumes — don't commit real resumes with personal data
+test_resumes/
+sample_resumes/
+*.pdf
+*.docx
+!docs/*.png
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Debug/scratch files — not part of the deliverable
+test_tabs.py
+subheading.py
