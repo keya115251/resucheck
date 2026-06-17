@@ -8,6 +8,7 @@ A local, offline resume parser built for engineering students — extracts struc
      verified, no major gaps) to show the tool at its best. -->
 ![Parse tab overview](docs/parse-overview-1.png)
 ![Parse tab overview](docs/parse-overview-2.png)
+![Parse tab overview](docs/parse-overview-3.png)
 
 ## Why I built this
 
