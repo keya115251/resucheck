@@ -81,7 +81,7 @@ ollama pull llama3.1:8b
 <!-- IMAGE 3: Optional — terminal screenshot of llm_enricher.py running standalone,
      showing the before/after confidence scores and enrichment log. Demonstrates
      the LLM fallback is real and measurable, not just a feature claim. -->
-![LLM enrichment in action](docs/screenshot-llm-enrichment.png)
+![LLM enrichment in action](docs/llm-enrichment.png)
 
 ## Tech stack
 
